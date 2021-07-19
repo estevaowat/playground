@@ -9,9 +9,11 @@
   "dependencies": {
     "@cyan-dev/well-made-database": "^1.29.3",
     "@turf/turf": "^6.3.0",
+    "concaveman": "^1.2.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "eslint": "^7.20.0",
